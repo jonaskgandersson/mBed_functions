@@ -1,3 +1,6 @@
+From 
+[John Bode](https://stackoverflow.com/a/10759352)
+
 Start with your declaration for f1:
 ```
 int (*f1)(float);
