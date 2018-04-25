@@ -1,3 +1,5 @@
+// Comment
+
 #include <stdio.h>
 #include "memmem.h"
 
