@@ -49,5 +49,5 @@ AliasId	AliasName	CommentName
 625US121.command.faultReset	""	lt:2 LANG:10001 "Manoever for: fault-reset cmd@@" LANG:10019 "Manoever for: fault-reset cmd@@"															
 625US121.alarm.notOk	""	lt:2 LANG:10001 "Summalarm, frekvensomriktare lintrumma 1@@" LANG:10019 "Summalarm, frekvensomriktare lintrumma 1@@"															
 625US121.alarm.inactivated	""	lt:2 LANG:10001 "Inaktiverad för synkning, frekvensomriktare lintrumma 1@@" LANG:10019 "Inaktiverad för synkning, frekvensomriktare lintrumma 1@@"															
-625US121.alarm.swSafetyNotOk	""	lt:2 LANG:10001 "Motorskyddsbrytare från, frekvensomriktare lintrumma 1@@" LANG:10019 "Motorskyddsbrytare från, frekvensomriktare lintrumma 1@@"															
+625US124.alarm.swSafetyNotOk		"It:2 LANG:10001 ""Motorskyddsbrytare från, frekvensomriktare lintrumma 1@@"" LANG:10019 ""Motorskyddsbrytare från, frekvensomriktare lintrumma 1@@"""															
 
